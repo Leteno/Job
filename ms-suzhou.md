@@ -78,24 +78,24 @@
 # SharePoint
 | 岗位 | 关键字 |
 | ------ | ------ |
-|[Principal Software Engineer Manager--SharePoint](https://careers.microsoft.com/us/en/job/771563/Principal-Software-Engineer-Manager-SharePoint)||
-|[SEII/Senior Software Engineer--SharePoint](https://careers.microsoft.com/us/en/job/757456/SEII-Senior-Software-Engineer-SharePoint)||
-|[Senior Software Engineer--SharePoint](https://careers.microsoft.com/us/en/job/751153/Senior-Software-Engineer-SharePoint)||
-|[Senior/Principal Program Manager--SharePoint](https://careers.microsoft.com/us/en/job/733642/Senior-Principal-Program-Manager-SharePoint)||
+|[Principal Software Engineer Manager--SharePoint](https://careers.microsoft.com/us/en/job/771563/Principal-Software-Engineer-Manager-SharePoint)|7 年以上，3年管理，Enterprise|
+|[SEII/Senior Software Engineer--SharePoint](https://careers.microsoft.com/us/en/job/757456/SEII-Senior-Software-Engineer-SharePoint)|6 年以上|
+|[Senior Software Engineer--SharePoint](https://careers.microsoft.com/us/en/job/751153/Senior-Software-Engineer-SharePoint)|6 年以上，OneDrive|
+|[Senior/Principal Program Manager--SharePoint](https://careers.microsoft.com/us/en/job/733642/Senior-Principal-Program-Manager-SharePoint)|多年软件开发以及管理经验|
 |[Support Escalation Engineer-SharePoint](https://careers.microsoft.com/us/en/job/745390/Support-Escalation-Engineer-SharePoint)||
-|[2020 Graduates - Software Engineer (Data Mining/Algorithm/Machine Learning) - STCA - Suzhou](https://careers.microsoft.com/us/en/job/687722/2020-Graduates-Software-Engineer-Data-Mining-Algorithm-Machine-Learning-STCA-Suzhou)||
+|[2020 Graduates - Software Engineer (Data Mining/Algorithm/Machine Learning) - STCA - Suzhou](https://careers.microsoft.com/us/en/job/687722/2020-Graduates-Software-Engineer-Data-Mining-Algorithm-Machine-Learning-STCA-Suzhou)|应届生|
 
 # 更多岗位
 | 岗位 | 关键字 |
 | ------ | ------ |
-|[2020 Graduates-Hardware Engineer-Devices-Suzhou](https://careers.microsoft.com/us/en/job/687631/2020-Graduates-Hardware-Engineer-Devices-Suzhou)||
-|[2020 Graduates-Software Engineer-E+D-Suzhou](https://careers.microsoft.com/us/en/job/687626/2020-Graduates-Software-Engineer-E-D-Suzhou)||
-|[2020 Graduates-Software Engineer-STCA-Suzhou](https://careers.microsoft.com/us/en/job/687714/2020-Graduates-Software-Engineer-STCA-Suzhou)||
-|[2021 Graduates Summer Intern - Product Manager Intern - STCA - Suzhou](https://careers.microsoft.com/us/en/job/769551/2021-Graduates-Summer-Intern-Product-Manager-Intern-STCA-Suzhou)||
-|[2021 Graduates Summer Intern - Software Engineer Intern (Data Mining/Algorithm/Machine Learning) - STCA - Suzhou](https://careers.microsoft.com/us/en/job/769518/2021-Graduates-Summer-Intern-Software-Engineer-Intern-Data-Mining-Algorithm-Machine-Learning-STCA-Suzhou)||
-|[2021 Graduates Summer Intern - Software Engineer Intern - STCA - Suzhou](https://careers.microsoft.com/us/en/job/768661/2021-Graduates-Summer-Intern-Software-Engineer-Intern-STCA-Suzhou)||
-|[2021 Graduates Summer Intern - Support Engineer Intern - CSS - Wuxi](https://careers.microsoft.com/us/en/job/768608/2021-Graduates-Summer-Intern-Support-Engineer-Intern-CSS-Wuxi)||
-|[2021 Graduates Winter Intern-Software Engineer Intern-STCA-Suzhou](https://careers.microsoft.com/us/en/job/691880/2021-Graduates-Winter-Intern-Software-Engineer-Intern-STCA-Suzhou)||
+|[2020 Graduates-Hardware Engineer-Devices-Suzhou](https://careers.microsoft.com/us/en/job/687631/2020-Graduates-Hardware-Engineer-Devices-Suzhou)|应届生，硬件|
+|[2020 Graduates-Software Engineer-E+D-Suzhou](https://careers.microsoft.com/us/en/job/687626/2020-Graduates-Software-Engineer-E-D-Suzhou)|应届生|
+|[2020 Graduates-Software Engineer-STCA-Suzhou](https://careers.microsoft.com/us/en/job/687714/2020-Graduates-Software-Engineer-STCA-Suzhou)|应届生|
+|[2021 Graduates Summer Intern - Product Manager Intern - STCA - Suzhou](https://careers.microsoft.com/us/en/job/769551/2021-Graduates-Summer-Intern-Product-Manager-Intern-STCA-Suzhou)|实习生|
+|[2021 Graduates Summer Intern - Software Engineer Intern (Data Mining/Algorithm/Machine Learning) - STCA - Suzhou](https://careers.microsoft.com/us/en/job/769518/2021-Graduates-Summer-Intern-Software-Engineer-Intern-Data-Mining-Algorithm-Machine-Learning-STCA-Suzhou)|实习生|
+|[2021 Graduates Summer Intern - Software Engineer Intern - STCA - Suzhou](https://careers.microsoft.com/us/en/job/768661/2021-Graduates-Summer-Intern-Software-Engineer-Intern-STCA-Suzhou)|实习生|
+|[2021 Graduates Summer Intern - Support Engineer Intern - CSS - Wuxi](https://careers.microsoft.com/us/en/job/768608/2021-Graduates-Summer-Intern-Support-Engineer-Intern-CSS-Wuxi)|实习生，无锡？|
+|[2021 Graduates Winter Intern-Software Engineer Intern-STCA-Suzhou](https://careers.microsoft.com/us/en/job/691880/2021-Graduates-Winter-Intern-Software-Engineer-Intern-STCA-Suzhou)|实习生|
 
 |[Applied Speech Scientist](https://careers.microsoft.com/us/en/job/699297/Applied-Speech-Scientist)||
 |[Data Engineer (all levels) - Cortana](https://careers.microsoft.com/us/en/job/752971/Data-Engineer-all-levels-Cortana)||

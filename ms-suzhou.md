@@ -96,38 +96,38 @@
 |[2021 Graduates Summer Intern - Software Engineer Intern - STCA - Suzhou](https://careers.microsoft.com/us/en/job/768661/2021-Graduates-Summer-Intern-Software-Engineer-Intern-STCA-Suzhou)|实习生|
 |[2021 Graduates Summer Intern - Support Engineer Intern - CSS - Wuxi](https://careers.microsoft.com/us/en/job/768608/2021-Graduates-Summer-Intern-Support-Engineer-Intern-CSS-Wuxi)|实习生，无锡？|
 |[2021 Graduates Winter Intern-Software Engineer Intern-STCA-Suzhou](https://careers.microsoft.com/us/en/job/691880/2021-Graduates-Winter-Intern-Software-Engineer-Intern-STCA-Suzhou)|实习生|
-
+|[ 2020 Graduates-Software Engineer (Speech/NLP)-STCA-Suzhou](https://careers.microsoft.com/us/en/job/687719/ 2020-Graduates-Software-Engineer-Speech-NLP-STCA-Suzhou)|应届生|
 |[Applied Speech Scientist](https://careers.microsoft.com/us/en/job/699297/Applied-Speech-Scientist)||
-|[Data Engineer (all levels) - Cortana](https://careers.microsoft.com/us/en/job/752971/Data-Engineer-all-levels-Cortana)||
+|[Data Engineer (all levels) - Cortana](https://careers.microsoft.com/us/en/job/752971/Data-Engineer-all-levels-Cortana)|都是宝, 全都要~|
+|[mobile engineer (All levels) - Cortana](https://careers.microsoft.com/us/en/job/733643/mobile-engineer-All-levels-Cortana)|Android/iOS|
 |[Devices Analysis Engineer II](https://careers.microsoft.com/us/en/job/768874/Devices-Analysis-Engineer-II)||
-|[Director of Engineering](https://careers.microsoft.com/us/en/job/727396/Director-of-Engineering)||
-|[MTE – Senior Software Development Engineer (China)](https://careers.microsoft.com/us/en/job/759956/MTE-Senior-Software-Development-Engineer-China)||
-|[Partner Dev Manager](https://careers.microsoft.com/us/en/job/752714/Partner-Dev-Manager)||
-|[Product Engineer II](https://careers.microsoft.com/us/en/job/762624/Product-Engineer-II)||
+|[Director of Engineering](https://careers.microsoft.com/us/en/job/727396/Director-of-Engineering)|10 年以上，Surface Team!|
+|[MTE – Senior Software Development Engineer (China)](https://careers.microsoft.com/us/en/job/759956/MTE-Senior-Software-Development-Engineer-China)|Android, 5 年以上|
+|[Partner Dev Manager](https://careers.microsoft.com/us/en/job/752714/Partner-Dev-Manager)|10 年以上 sale 经验|
+|[Product Engineer II](https://careers.microsoft.com/us/en/job/762624/Product-Engineer-II)|6 年以上，硬件工程师|
 |[Product Engineer II](https://careers.microsoft.com/us/en/job/750299/Product-Engineer-II)||
-|[Reliability Engineer](https://careers.microsoft.com/us/en/job/755915/Reliability-Engineer)||
-|[SDE 2- RF](https://careers.microsoft.com/us/en/job/723072/SDE-2-RF)||
-|[SENIOR ENCLOSURE DEVELOPMENT ENGINEER](https://careers.microsoft.com/us/en/job/677518/SENIOR-ENCLOSURE-DEVELOPMENT-ENGINEER)||
-|[SR. NPI PM](https://careers.microsoft.com/us/en/job/726042/SR-NPI-PM)||
-|[SW Subsystem Program Manager](https://careers.microsoft.com/us/en/job/761298/SW-Subsystem-Program-Manager)||
-|[Senior Director, Factory Management Engineering](https://careers.microsoft.com/us/en/job/749389/Senior-Director-Factory-Management-Engineering)||
-|[Senior Factory Management Engineer](https://careers.microsoft.com/us/en/job/748910/Senior-Factory-Management-Engineer)||
+|[Reliability Engineer](https://careers.microsoft.com/us/en/job/755915/Reliability-Engineer)|5 年以上|
+|[SDE 2- RF](https://careers.microsoft.com/us/en/job/723072/SDE-2-RF)|Surface, 4 年以上 RF 经验|
+|[SENIOR ENCLOSURE DEVELOPMENT ENGINEER](https://careers.microsoft.com/us/en/job/677518/SENIOR-ENCLOSURE-DEVELOPMENT-ENGINEER)|CAD 3D 建模，硬件，10 年以上经验|
+|[SR. NPI PM](https://careers.microsoft.com/us/en/job/726042/SR-NPI-PM)|New Product Introduction, 15 years|
+|[SW Subsystem Program Manager](https://careers.microsoft.com/us/en/job/761298/SW-Subsystem-Program-Manager)|硬件，硬核|
+|[Senior Director, Factory Management Engineering](https://careers.microsoft.com/us/en/job/749389/Senior-Director-Factory-Management-Engineering)|很硬核|
+|[Senior Factory Management Engineer](https://careers.microsoft.com/us/en/job/748910/Senior-Factory-Management-Engineer)|硬核。。|
 |[Senior Software Development Engineer](https://careers.microsoft.com/us/en/job/733317/Senior-Software-Development-Engineer)||
-|[Senior Software Development Engineer_ Display](https://careers.microsoft.com/us/en/job/733365/Senior-Software-Development-Engineer-Display)||
-|[Senior Software Engineer](https://careers.microsoft.com/us/en/job/765527/Senior-Software-Engineer)||
-|[Senior Software Engineer(Azure ML)](https://careers.microsoft.com/us/en/job/757455/Senior-Software-Engineer-Azure-ML)||
-|[Senior Software Engineer_Design Verification](https://careers.microsoft.com/us/en/job/712687/Senior-Software-Engineer-Design-Verification)||
-|[Senior Software Engineer_Design Verification](https://careers.microsoft.com/us/en/job/712684/Senior-Software-Engineer-Design-Verification)||
-|[Software Engineer](https://careers.microsoft.com/us/en/job/758463/Software-Engineer)||
-|[Software Engineer](https://careers.microsoft.com/us/en/job/745376/Software-Engineer)||
-|[Software Engineer](https://careers.microsoft.com/us/en/job/745376/Software-Engineer)||
-|[Software Engineer](https://careers.microsoft.com/us/en/job/764761/Software-Engineer)||
-|[Software Engineer (all levels)](https://careers.microsoft.com/us/en/job/692521/Software-Engineer-all-levels)||
-|[Software Engineer 2](https://careers.microsoft.com/us/en/job/758455/Software-Engineer-2)||
-|[Software Engineer II- Sharepoint](https://careers.microsoft.com/us/en/job/757457/Software-Engineer-II-Sharepoint)||
-|[Software Engineer II/Sr. SDE – Protocols](https://careers.microsoft.com/us/en/job/742501/Software-Engineer-II-Sr-SDE-Protocols)||
-|[Software Engineer-Android/iOS](https://careers.microsoft.com/us/en/job/758471/Software-Engineer-Android-iOS)||
-|[Software Engineer-Front end- SCCM](https://careers.microsoft.com/us/en/job/753747/Software-Engineer-Front-end-SCCM)||
+|[Senior Software Development Engineer_ Display](https://careers.microsoft.com/us/en/job/733365/Senior-Software-Development-Engineer-Display)|3 年以上，Display && Graphics, Surface Team|
+|[Senior Software Engineer](https://careers.microsoft.com/us/en/job/765527/Senior-Software-Engineer)|5 年以上，Bing Index Server|
+|[Senior Software Engineer(Azure ML)](https://careers.microsoft.com/us/en/job/757455/Senior-Software-Engineer-Azure-ML)|5 年以上，ML 平台|
+|[Senior Software Engineer_Design Verification](https://careers.microsoft.com/us/en/job/712687/Senior-Software-Engineer-Design-Verification)|4 年以上，Surface|
+|[Senior Software Engineer_Design Verification](https://careers.microsoft.com/us/en/job/712684/Senior-Software-Engineer-Design-Verification)|同上（dup|
+|[Software Engineer](https://careers.microsoft.com/us/en/job/758463/Software-Engineer)|3 年以上，Outlook 后端|
+|[Software Engineer](https://careers.microsoft.com/us/en/job/745376/Software-Engineer)|3 年以上，Enterprise Search|
+|[Software Engineer](https://careers.microsoft.com/us/en/job/764761/Software-Engineer)|3 年以上，Auth team|
+|[Software Engineer (all levels)](https://careers.microsoft.com/us/en/job/692521/Software-Engineer-all-levels)|NLP，快来快来|
+|[Software Engineer 2](https://careers.microsoft.com/us/en/job/758455/Software-Engineer-2)|3 年以上， directory service|
+|[Software Engineer II- Sharepoint](https://careers.microsoft.com/us/en/job/757457/Software-Engineer-II-Sharepoint)|3 年以上，OneDrive|
+|[Software Engineer II/Sr. SDE – Protocols](https://careers.microsoft.com/us/en/job/742501/Software-Engineer-II-Sr-SDE-Protocols)|2 年以上，O365|
+|[Software Engineer-Android/iOS](https://careers.microsoft.com/us/en/job/758471/Software-Engineer-Android-iOS)|Outlook Mobile|
+|[Software Engineer-Front end- SCCM](https://careers.microsoft.com/us/en/job/753747/Software-Engineer-Front-end-SCCM)|前端|
 |[Software Engineer/ SEII- Cortana](https://careers.microsoft.com/us/en/job/725113/Software-Engineer-SEII-Cortana)||
 |[Software Engineer/SE II – Protocols](https://careers.microsoft.com/us/en/job/742499/Software-Engineer-SE-II-Protocols)||
 |[Software EngineerII/Sr. SE--Anti Spam](https://careers.microsoft.com/us/en/job/740051/Software-EngineerII-Sr-SE-Anti-Spam)||
@@ -147,8 +147,6 @@
 |[Support Engineer_Windows Networking](https://careers.microsoft.com/us/en/job/737755/Support-Engineer-Windows-Networking)||
 |[Support Escalation Engineer-Azure SQL VM](https://careers.microsoft.com/us/en/job/730195/Support-Escalation-Engineer-Azure-SQL-VM)||
 |[Support Escalation Engineer_Azure Stack](https://careers.microsoft.com/us/en/job/703878/Support-Escalation-Engineer-Azure-Stack)||
-|[mobile engineer (All levels) - Cortana](https://careers.microsoft.com/us/en/job/733643/mobile-engineer-All-levels-Cortana)||
-|[ 2020 Graduates-Software Engineer (Speech/NLP)-STCA-Suzhou](https://careers.microsoft.com/us/en/job/687719/ 2020-Graduates-Software-Engineer-Speech-NLP-STCA-Suzhou)||
-|[【Customer Service & Support】 Support Engineering Manager - Data & AI](https://careers.microsoft.com/us/en/job/755253/【Customer-Service-Support】-Support-Engineering-Manager-Data-AI)||
-|[【Services Delivery】 Delivery Management Manager (TAM Manager)](https://careers.microsoft.com/us/en/job/757357/【Services-Delivery】-Delivery-Management-Manager-TAM-Manager)||
-|[【Services Delivery】 Technical Account Manager](https://careers.microsoft.com/us/en/job/725951/【Services-Delivery】-Technical-Account-Manager)||
+|[【Customer Service & Support】 Support Engineering Manager - Data & AI](https://careers.microsoft.com/us/en/job/755253/[Customer-Service-Support]-Support-Engineering-Manager-Data-AI)||
+|[【Services Delivery】 Delivery Management Manager (TAM Manager)](https://careers.microsoft.com/us/en/job/757357/[Services-Delivery]-Delivery-Management-Manager-TAM-Manager)||
+|[【Services Delivery】 Technical Account Manager](https://careers.microsoft.com/us/en/job/725951/[Services-Delivery]-Technical-Account-Manager)||

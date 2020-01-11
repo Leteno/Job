@@ -1,0 +1,154 @@
+# 微软苏州
+
+> 来都来了，进来坐坐~
+> （随便挑，随便选，哈哈哈 ^_^
+
+微软苏州的岗位:(个人整理，一切以官网为主，如有纰漏，(逃
+
+# Intune
+
+| 岗位 | 关键字 |
+| ------ | ------ |
+|[2020 Graduates-Software Engineer-Intune-Suzhou](https://careers.microsoft.com/us/en/job/698661/2020-Graduates-Software-Engineer-Intune-Suzhou)|应届生|
+|[Senior Software Engineer/SEII --Intune](https://careers.microsoft.com/us/en/job/765702/Senior-Software-Engineer-SEII-Intune)|5 年以上|
+|[Software Engineer II- Intune](https://careers.microsoft.com/us/en/job/765699/Software-Engineer-II-Intune)|3 年以上|
+|[Sr./Principal Software Engineering Manager--Intune](https://careers.microsoft.com/us/en/job/771521/Sr-Principal-Software-Engineering-Manager-Intune)|10 年以上|
+|[Software Engineer 2-M365 WPI Team](https://careers.microsoft.com/us/en/job/765526/Software-Engineer-2-M365-WPI-Team)|3 年以上|
+
+# MMX
+
+| 岗位 | 关键字 |
+| ------ | ------ |
+|[Software Engineer II/Sr. SE--MMX Edge Android](https://careers.microsoft.com/us/en/job/738274/Software-Engineer-II-Sr-SE-MMX-Edge-Android)|Edge, 好项目啊, Android, 7 年以上|
+|[Software Engineer- iOS- MMX](https://careers.microsoft.com/us/en/job/728540/Software-Engineer-iOS-MMX)|Edge, 好项目啊, iOS, 3 年以上|
+
+# MSAI
+| 岗位 | 关键字 |
+| ------ | ------ |
+|[Senior Program Manager--MSAI](https://careers.microsoft.com/us/en/job/724281/Senior-Program-Manager-MSAI)|项目经理，5 年以上，AI in Outlook mobile|
+|[Software Engineer II- MSAI](https://careers.microsoft.com/us/en/job/752973/Software-Engineer-II-MSAI)|3 年以上|
+|[Software Engineer II- MSAI](https://careers.microsoft.com/us/en/job/752973/Software-Engineer-II-MSAI)|3 年以上|
+|[Software Engineer- MSAI](https://careers.microsoft.com/us/en/job/752970/Software-Engineer-MSAI)|3 年以上|
+|[Sr. Software Engineer--MSAI](https://careers.microsoft.com/us/en/job/752974/Sr-Software-Engineer-MSAI)|5 年以上, Search and Assistance|
+
+# Office 365
+| 岗位 | 关键字 |
+| ------ | ------ |
+|[Data & Applied Scientist II - O365](https://careers.microsoft.com/us/en/job/768191/Data-Applied-Scientist-II-O365)||
+|[Mobile Engineer-Android/iOS- O365](https://careers.microsoft.com/us/en/job/730644/Mobile-Engineer-Android-iOS-O365)||
+|[SE/SEII/Sr. Software Engineer--O365 WpA](https://careers.microsoft.com/us/en/job/719433/SE-SEII-Sr-Software-Engineer-O365-WpA)||
+|[SE/SEII/Sr. Software Engineer--O365 WpA](https://careers.microsoft.com/us/en/job/719433/SE-SEII-Sr-Software-Engineer-O365-WpA)||
+|[Software Engineer II/Sr. SE --O365 Monitoring](https://careers.microsoft.com/us/en/job/721620/Software-Engineer-II-Sr-SE-O365-Monitoring)||
+|[Software Engineer II/Sr. SE --O365 OM TEAM](https://careers.microsoft.com/us/en/job/757458/Software-Engineer-II-Sr-SE-O365-OM-TEAM)||
+|[Software Engineer II/Sr. SE--O365 Engineering System](https://careers.microsoft.com/us/en/job/749926/Software-Engineer-II-Sr-SE-O365-Engineering-System)||
+|[Software Engineer II/Sr. SE--O365 Substrate Management Platform](https://careers.microsoft.com/us/en/job/724277/Software-Engineer-II-Sr-SE-O365-Substrate-Management-Platform)||
+|[Software Engineer II/Sr. SE--O365 Transport team](https://careers.microsoft.com/us/en/job/760725/Software-Engineer-II-Sr-SE-O365-Transport-team)||
+|[Software Engineer-O365](https://careers.microsoft.com/us/en/job/721567/Software-Engineer-O365)||
+|[Software Engineer-O365](https://careers.microsoft.com/us/en/job/712499/Software-Engineer-O365)||
+|[Software Engineer/ SEII - O365 AD](https://careers.microsoft.com/us/en/job/740048/Software-Engineer-SEII-O365-AD)||
+|[Software Engineer/ SEII- O365 CapSense](https://careers.microsoft.com/us/en/job/768190/Software-Engineer-SEII-O365-CapSense)||
+|[Software Engineer/ SEII- O365 HA/Store](https://careers.microsoft.com/us/en/job/752786/Software-Engineer-SEII-O365-HA-Store)||
+|[Software Engineer/ SEII- O365- Data insights](https://careers.microsoft.com/us/en/job/749919/Software-Engineer-SEII-O365-Data-insights)||
+|[Software Engineer/ SEII- O365- Data insights](https://careers.microsoft.com/us/en/job/749919/Software-Engineer-SEII-O365-Data-insights)||
+|[Software Engineer/ SEII- O365-Migration](https://careers.microsoft.com/us/en/job/737537/Software-Engineer-SEII-O365-Migration)||
+|[Software Engineer/SEII- O365](https://careers.microsoft.com/us/en/job/724253/Software-Engineer-SEII-O365)||
+|[Software Engineer/SEII- O365 AD](https://careers.microsoft.com/us/en/job/752937/Software-Engineer-SEII-O365-AD)||
+|[Software Engineer/SEII- O365 Anti Spam](https://careers.microsoft.com/us/en/job/766485/Software-Engineer-SEII-O365-Anti-Spam)||
+|[Software Engineer/SEII--O365 OS&SKU](https://careers.microsoft.com/us/en/job/686832/Software-Engineer-SEII-O365-OS-SKU)||
+|[Software Engineer/SEII-O365 Evergreen](https://careers.microsoft.com/us/en/job/689115/Software-Engineer-SEII-O365-Evergreen)||
+|[Software Engineer/SEII-O365 Evergreen](https://careers.microsoft.com/us/en/job/767388/Software-Engineer-SEII-O365-Evergreen)||
+|[Software Engineer/SEII/Sr.SE--O365 Fleet](https://careers.microsoft.com/us/en/job/749933/Software-Engineer-SEII-Sr-SE-O365-Fleet)||
+|[Software Engineer/SEII/Sr.SE--O365 Fleet](https://careers.microsoft.com/us/en/job/749933/Software-Engineer-SEII-Sr-SE-O365-Fleet)||
+|[Sr. Data & Applied Scientist/Data Scientist--O365 HA & Store](https://careers.microsoft.com/us/en/job/749923/Sr-Data-Applied-Scientist-Data-Scientist-O365-HA-Store)||
+|[Sr. SE/SEII--O365 OS&SKU](https://careers.microsoft.com/us/en/job/766334/Sr-SE-SEII-O365-OS-SKU)||
+|[Sr. SE/Software Engineer II--O365 HA & Store](https://careers.microsoft.com/us/en/job/749922/Sr-SE-Software-Engineer-II-O365-HA-Store)||
+|[Sr. SE/Software Engineer II--O365 HA & Store](https://careers.microsoft.com/us/en/job/749922/Sr-SE-Software-Engineer-II-O365-HA-Store)||
+|[Sr. SW Engineering Manager--O365 Engineering System](https://careers.microsoft.com/us/en/job/765528/Sr-SW-Engineering-Manager-O365-Engineering-System)||
+|[Sr. SW Engineering Manager--O365 OM team](https://careers.microsoft.com/us/en/job/738284/Sr-SW-Engineering-Manager-O365-OM-team)||
+|[Sr. Software Engineer --O365 AD team](https://careers.microsoft.com/us/en/job/738267/Sr-Software-Engineer-O365-AD-team)||
+|[Sr./Principal  SW Engineering Manager--O365 Anti Spam](https://careers.microsoft.com/us/en/job/724260/Sr-Principal-SW-Engineering-Manager-O365-Anti-Spam)||
+|[Data & Applied Scientist-Office 365](https://careers.microsoft.com/us/en/job/758452/Data-Applied-Scientist-Office-365)||
+|[Software Engineer II- Office365 IDEAs](https://careers.microsoft.com/us/en/job/744876/Software-Engineer-II-Office365-IDEAs)||
+|[Software Engineer II-Office365 Work Place Intelligence](https://careers.microsoft.com/us/en/job/735890/Software-Engineer-II-Office365-Work-Place-Intelligence)||
+|[Software Engineer-Office 365 Security](https://careers.microsoft.com/us/en/job/752936/Software-Engineer-Office-365-Security)||
+|[Software Engineer-Office365 IDEAs](https://careers.microsoft.com/us/en/job/744877/Software-Engineer-Office365-IDEAs)||
+|[Support Engineer-Office](https://careers.microsoft.com/us/en/job/745397/Support-Engineer-Office)||
+
+
+# SharePoint
+| 岗位 | 关键字 |
+| ------ | ------ |
+|[Principal Software Engineer Manager--SharePoint](https://careers.microsoft.com/us/en/job/771563/Principal-Software-Engineer-Manager-SharePoint)||
+|[SEII/Senior Software Engineer--SharePoint](https://careers.microsoft.com/us/en/job/757456/SEII-Senior-Software-Engineer-SharePoint)||
+|[Senior Software Engineer--SharePoint](https://careers.microsoft.com/us/en/job/751153/Senior-Software-Engineer-SharePoint)||
+|[Senior/Principal Program Manager--SharePoint](https://careers.microsoft.com/us/en/job/733642/Senior-Principal-Program-Manager-SharePoint)||
+|[Support Escalation Engineer-SharePoint](https://careers.microsoft.com/us/en/job/745390/Support-Escalation-Engineer-SharePoint)||
+|[2020 Graduates - Software Engineer (Data Mining/Algorithm/Machine Learning) - STCA - Suzhou](https://careers.microsoft.com/us/en/job/687722/2020-Graduates-Software-Engineer-Data-Mining-Algorithm-Machine-Learning-STCA-Suzhou)||
+
+# 更多岗位
+| 岗位 | 关键字 |
+| ------ | ------ |
+|[2020 Graduates-Hardware Engineer-Devices-Suzhou](https://careers.microsoft.com/us/en/job/687631/2020-Graduates-Hardware-Engineer-Devices-Suzhou)||
+|[2020 Graduates-Software Engineer-E+D-Suzhou](https://careers.microsoft.com/us/en/job/687626/2020-Graduates-Software-Engineer-E-D-Suzhou)||
+|[2020 Graduates-Software Engineer-STCA-Suzhou](https://careers.microsoft.com/us/en/job/687714/2020-Graduates-Software-Engineer-STCA-Suzhou)||
+|[2021 Graduates Summer Intern - Product Manager Intern - STCA - Suzhou](https://careers.microsoft.com/us/en/job/769551/2021-Graduates-Summer-Intern-Product-Manager-Intern-STCA-Suzhou)||
+|[2021 Graduates Summer Intern - Software Engineer Intern (Data Mining/Algorithm/Machine Learning) - STCA - Suzhou](https://careers.microsoft.com/us/en/job/769518/2021-Graduates-Summer-Intern-Software-Engineer-Intern-Data-Mining-Algorithm-Machine-Learning-STCA-Suzhou)||
+|[2021 Graduates Summer Intern - Software Engineer Intern - STCA - Suzhou](https://careers.microsoft.com/us/en/job/768661/2021-Graduates-Summer-Intern-Software-Engineer-Intern-STCA-Suzhou)||
+|[2021 Graduates Summer Intern - Support Engineer Intern - CSS - Wuxi](https://careers.microsoft.com/us/en/job/768608/2021-Graduates-Summer-Intern-Support-Engineer-Intern-CSS-Wuxi)||
+|[2021 Graduates Winter Intern-Software Engineer Intern-STCA-Suzhou](https://careers.microsoft.com/us/en/job/691880/2021-Graduates-Winter-Intern-Software-Engineer-Intern-STCA-Suzhou)||
+
+|[Applied Speech Scientist](https://careers.microsoft.com/us/en/job/699297/Applied-Speech-Scientist)||
+|[Data Engineer (all levels) - Cortana](https://careers.microsoft.com/us/en/job/752971/Data-Engineer-all-levels-Cortana)||
+|[Devices Analysis Engineer II](https://careers.microsoft.com/us/en/job/768874/Devices-Analysis-Engineer-II)||
+|[Director of Engineering](https://careers.microsoft.com/us/en/job/727396/Director-of-Engineering)||
+|[MTE – Senior Software Development Engineer (China)](https://careers.microsoft.com/us/en/job/759956/MTE-Senior-Software-Development-Engineer-China)||
+|[Partner Dev Manager](https://careers.microsoft.com/us/en/job/752714/Partner-Dev-Manager)||
+|[Product Engineer II](https://careers.microsoft.com/us/en/job/762624/Product-Engineer-II)||
+|[Product Engineer II](https://careers.microsoft.com/us/en/job/750299/Product-Engineer-II)||
+|[Reliability Engineer](https://careers.microsoft.com/us/en/job/755915/Reliability-Engineer)||
+|[SDE 2- RF](https://careers.microsoft.com/us/en/job/723072/SDE-2-RF)||
+|[SENIOR ENCLOSURE DEVELOPMENT ENGINEER](https://careers.microsoft.com/us/en/job/677518/SENIOR-ENCLOSURE-DEVELOPMENT-ENGINEER)||
+|[SR. NPI PM](https://careers.microsoft.com/us/en/job/726042/SR-NPI-PM)||
+|[SW Subsystem Program Manager](https://careers.microsoft.com/us/en/job/761298/SW-Subsystem-Program-Manager)||
+|[Senior Director, Factory Management Engineering](https://careers.microsoft.com/us/en/job/749389/Senior-Director-Factory-Management-Engineering)||
+|[Senior Factory Management Engineer](https://careers.microsoft.com/us/en/job/748910/Senior-Factory-Management-Engineer)||
+|[Senior Software Development Engineer](https://careers.microsoft.com/us/en/job/733317/Senior-Software-Development-Engineer)||
+|[Senior Software Development Engineer_ Display](https://careers.microsoft.com/us/en/job/733365/Senior-Software-Development-Engineer-Display)||
+|[Senior Software Engineer](https://careers.microsoft.com/us/en/job/765527/Senior-Software-Engineer)||
+|[Senior Software Engineer(Azure ML)](https://careers.microsoft.com/us/en/job/757455/Senior-Software-Engineer-Azure-ML)||
+|[Senior Software Engineer_Design Verification](https://careers.microsoft.com/us/en/job/712687/Senior-Software-Engineer-Design-Verification)||
+|[Senior Software Engineer_Design Verification](https://careers.microsoft.com/us/en/job/712684/Senior-Software-Engineer-Design-Verification)||
+|[Software Engineer](https://careers.microsoft.com/us/en/job/758463/Software-Engineer)||
+|[Software Engineer](https://careers.microsoft.com/us/en/job/745376/Software-Engineer)||
+|[Software Engineer](https://careers.microsoft.com/us/en/job/745376/Software-Engineer)||
+|[Software Engineer](https://careers.microsoft.com/us/en/job/764761/Software-Engineer)||
+|[Software Engineer (all levels)](https://careers.microsoft.com/us/en/job/692521/Software-Engineer-all-levels)||
+|[Software Engineer 2](https://careers.microsoft.com/us/en/job/758455/Software-Engineer-2)||
+|[Software Engineer II- Sharepoint](https://careers.microsoft.com/us/en/job/757457/Software-Engineer-II-Sharepoint)||
+|[Software Engineer II/Sr. SDE – Protocols](https://careers.microsoft.com/us/en/job/742501/Software-Engineer-II-Sr-SDE-Protocols)||
+|[Software Engineer-Android/iOS](https://careers.microsoft.com/us/en/job/758471/Software-Engineer-Android-iOS)||
+|[Software Engineer-Front end- SCCM](https://careers.microsoft.com/us/en/job/753747/Software-Engineer-Front-end-SCCM)||
+|[Software Engineer/ SEII- Cortana](https://careers.microsoft.com/us/en/job/725113/Software-Engineer-SEII-Cortana)||
+|[Software Engineer/SE II – Protocols](https://careers.microsoft.com/us/en/job/742499/Software-Engineer-SE-II-Protocols)||
+|[Software EngineerII/Sr. SE--Anti Spam](https://careers.microsoft.com/us/en/job/740051/Software-EngineerII-Sr-SE-Anti-Spam)||
+|[Speech Scientist](https://careers.microsoft.com/us/en/job/385910/Speech-Scientist)||
+|[Sr. DfM Engineer- NPI Engineering](https://careers.microsoft.com/us/en/job/733309/Sr-DfM-Engineer-NPI-Engineering)||
+|[Sr. DfX Engineer](https://careers.microsoft.com/us/en/job/760314/Sr-DfX-Engineer)||
+|[Sr. Factory Manager-Battery](https://careers.microsoft.com/us/en/job/764336/Sr-Factory-Manager-Battery)||
+|[Sr. Product Engineer](https://careers.microsoft.com/us/en/job/726051/Sr-Product-Engineer)||
+|[Sr/Principal Software Engineering Manager--HA](https://careers.microsoft.com/us/en/job/738265/Sr-Principal-Software-Engineering-Manager-HA)||
+|[Support Engineer](https://careers.microsoft.com/us/en/job/758458/Support-Engineer)||
+|[Support Engineer](https://careers.microsoft.com/us/en/job/740684/Support-Engineer)||
+|[Support Engineer-Big Data](https://careers.microsoft.com/us/en/job/733532/Support-Engineer-Big-Data)||
+|[Support Engineer-Dynamics CRM](https://careers.microsoft.com/us/en/job/694833/Support-Engineer-Dynamics-CRM)||
+|[Support Engineer-Open Source Database](https://careers.microsoft.com/us/en/job/659772/Support-Engineer-Open-Source-Database)||
+|[Support Engineer-big data](https://careers.microsoft.com/us/en/job/770697/Support-Engineer-big-data)||
+|[Support Engineer_Azure Back-up and Recovery Service](https://careers.microsoft.com/us/en/job/694069/Support-Engineer-Azure-Back-up-and-Recovery-Service)||
+|[Support Engineer_Windows Networking](https://careers.microsoft.com/us/en/job/737755/Support-Engineer-Windows-Networking)||
+|[Support Escalation Engineer-Azure SQL VM](https://careers.microsoft.com/us/en/job/730195/Support-Escalation-Engineer-Azure-SQL-VM)||
+|[Support Escalation Engineer_Azure Stack](https://careers.microsoft.com/us/en/job/703878/Support-Escalation-Engineer-Azure-Stack)||
+|[mobile engineer (All levels) - Cortana](https://careers.microsoft.com/us/en/job/733643/mobile-engineer-All-levels-Cortana)||
+|[ 2020 Graduates-Software Engineer (Speech/NLP)-STCA-Suzhou](https://careers.microsoft.com/us/en/job/687719/ 2020-Graduates-Software-Engineer-Speech-NLP-STCA-Suzhou)||
+|[【Customer Service & Support】 Support Engineering Manager - Data & AI](https://careers.microsoft.com/us/en/job/755253/【Customer-Service-Support】-Support-Engineering-Manager-Data-AI)||
+|[【Services Delivery】 Delivery Management Manager (TAM Manager)](https://careers.microsoft.com/us/en/job/757357/【Services-Delivery】-Delivery-Management-Manager-TAM-Manager)||
+|[【Services Delivery】 Technical Account Manager](https://careers.microsoft.com/us/en/job/725951/【Services-Delivery】-Technical-Account-Manager)||

@@ -150,3 +150,32 @@
 |[【Customer Service & Support】 Support Engineering Manager - Data & AI](https://careers.microsoft.com/us/en/job/755253/[Customer-Service-Support]-Support-Engineering-Manager-Data-AI)||
 |[【Services Delivery】 Delivery Management Manager (TAM Manager)](https://careers.microsoft.com/us/en/job/757357/[Services-Delivery]-Delivery-Management-Manager-TAM-Manager)||
 |[【Services Delivery】 Technical Account Manager](https://careers.microsoft.com/us/en/job/725951/[Services-Delivery]-Technical-Account-Manager)||
+
+
+
+# 备注
+
+### 1. 职称:
+
+* SE(Software Engineer)/SDE(Software Development Engineer)
+* SEII(Software Engineer II) / SDEII
+* Sr(Senior)
+* Principle
+
+### 2. 面试准备以及面试流程
+
+准备
+
+* 建议买本 《编程之美》里面的题目都很好。
+
+* 有些网站上面会有一些习题，比如 CSDN 里面的微软面试 100 题之类的，边看便想思路还是能训练反应速度的。
+
+面试流程
+
+* 先是约电话面试，面试通过了，会通知你去现场面试
+* 现场面试是 5 面，一天搞定。
+
+### 3. [后话](ms-suzhou-addition.md)
+
+还是不留工作邮箱了，虽然写这篇文章的初衷比较大的成分是内推奖金 ^.^，可以找
+

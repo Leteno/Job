@@ -20,7 +20,7 @@
 | 岗位 | 关键字 |
 | ------ | ------ |
 |[Software Engineer II/Sr. SE--MMX Edge Android](https://careers.microsoft.com/us/en/job/738274/Software-Engineer-II-Sr-SE-MMX-Edge-Android)|Edge, 好项目啊, Android, 7 年以上|
-|[Software Engineer- iOS- MMX](https://careers.microsoft.com/us/en/job/728540/Software-Engineer-iOS-MMX)|Edge, 好项目啊, iOS, 3 年以上|
+|[Software Engineer- iOS- MMX](https://careers.microsoft.com/us/en/job/728540/Software-Engineer-iOS-MMX)|Edge, 快到碗里来, iOS, 3 年以上|
 
 # MSAI
 | 岗位 | 关键字 |
@@ -35,44 +35,44 @@
 | 岗位 | 关键字 |
 | ------ | ------ |
 |[Data & Applied Scientist II - O365](https://careers.microsoft.com/us/en/job/768191/Data-Applied-Scientist-II-O365)||
-|[Mobile Engineer-Android/iOS- O365](https://careers.microsoft.com/us/en/job/730644/Mobile-Engineer-Android-iOS-O365)||
-|[SE/SEII/Sr. Software Engineer--O365 WpA](https://careers.microsoft.com/us/en/job/719433/SE-SEII-Sr-Software-Engineer-O365-WpA)||
-|[SE/SEII/Sr. Software Engineer--O365 WpA](https://careers.microsoft.com/us/en/job/719433/SE-SEII-Sr-Software-Engineer-O365-WpA)||
-|[Software Engineer II/Sr. SE --O365 Monitoring](https://careers.microsoft.com/us/en/job/721620/Software-Engineer-II-Sr-SE-O365-Monitoring)||
+|[Mobile Engineer-Android/iOS- O365](https://careers.microsoft.com/us/en/job/730644/Mobile-Engineer-Android-iOS-O365)|Outlook|
+|[SE/SEII/Sr. Software Engineer--O365 WpA](https://careers.microsoft.com/us/en/job/719433/SE-SEII-Sr-Software-Engineer-O365-WpA)|3 年以上|
+|[SE/SEII/Sr. Software Engineer--O365 WpA](https://careers.microsoft.com/us/en/job/719433/SE-SEII-Sr-Software-Engineer-O365-WpA)|3 年以上|
+|[Software Engineer II/Sr. SE --O365 Monitoring](https://careers.microsoft.com/us/en/job/721620/Software-Engineer-II-Sr-SE-O365-Monitoring)|5 年以上，云服务|
 |[Software Engineer II/Sr. SE --O365 OM TEAM](https://careers.microsoft.com/us/en/job/757458/Software-Engineer-II-Sr-SE-O365-OM-TEAM)||
-|[Software Engineer II/Sr. SE--O365 Engineering System](https://careers.microsoft.com/us/en/job/749926/Software-Engineer-II-Sr-SE-O365-Engineering-System)||
-|[Software Engineer II/Sr. SE--O365 Substrate Management Platform](https://careers.microsoft.com/us/en/job/724277/Software-Engineer-II-Sr-SE-O365-Substrate-Management-Platform)||
-|[Software Engineer II/Sr. SE--O365 Transport team](https://careers.microsoft.com/us/en/job/760725/Software-Engineer-II-Sr-SE-O365-Transport-team)||
-|[Software Engineer-O365](https://careers.microsoft.com/us/en/job/721567/Software-Engineer-O365)||
-|[Software Engineer-O365](https://careers.microsoft.com/us/en/job/712499/Software-Engineer-O365)||
-|[Software Engineer/ SEII - O365 AD](https://careers.microsoft.com/us/en/job/740048/Software-Engineer-SEII-O365-AD)||
-|[Software Engineer/ SEII- O365 CapSense](https://careers.microsoft.com/us/en/job/768190/Software-Engineer-SEII-O365-CapSense)||
-|[Software Engineer/ SEII- O365 HA/Store](https://careers.microsoft.com/us/en/job/752786/Software-Engineer-SEII-O365-HA-Store)||
-|[Software Engineer/ SEII- O365- Data insights](https://careers.microsoft.com/us/en/job/749919/Software-Engineer-SEII-O365-Data-insights)||
-|[Software Engineer/ SEII- O365- Data insights](https://careers.microsoft.com/us/en/job/749919/Software-Engineer-SEII-O365-Data-insights)||
-|[Software Engineer/ SEII- O365-Migration](https://careers.microsoft.com/us/en/job/737537/Software-Engineer-SEII-O365-Migration)||
-|[Software Engineer/SEII- O365](https://careers.microsoft.com/us/en/job/724253/Software-Engineer-SEII-O365)||
-|[Software Engineer/SEII- O365 AD](https://careers.microsoft.com/us/en/job/752937/Software-Engineer-SEII-O365-AD)||
-|[Software Engineer/SEII- O365 Anti Spam](https://careers.microsoft.com/us/en/job/766485/Software-Engineer-SEII-O365-Anti-Spam)||
-|[Software Engineer/SEII--O365 OS&SKU](https://careers.microsoft.com/us/en/job/686832/Software-Engineer-SEII-O365-OS-SKU)||
-|[Software Engineer/SEII-O365 Evergreen](https://careers.microsoft.com/us/en/job/689115/Software-Engineer-SEII-O365-Evergreen)||
-|[Software Engineer/SEII-O365 Evergreen](https://careers.microsoft.com/us/en/job/767388/Software-Engineer-SEII-O365-Evergreen)||
-|[Software Engineer/SEII/Sr.SE--O365 Fleet](https://careers.microsoft.com/us/en/job/749933/Software-Engineer-SEII-Sr-SE-O365-Fleet)||
-|[Software Engineer/SEII/Sr.SE--O365 Fleet](https://careers.microsoft.com/us/en/job/749933/Software-Engineer-SEII-Sr-SE-O365-Fleet)||
-|[Sr. Data & Applied Scientist/Data Scientist--O365 HA & Store](https://careers.microsoft.com/us/en/job/749923/Sr-Data-Applied-Scientist-Data-Scientist-O365-HA-Store)||
-|[Sr. SE/SEII--O365 OS&SKU](https://careers.microsoft.com/us/en/job/766334/Sr-SE-SEII-O365-OS-SKU)||
-|[Sr. SE/Software Engineer II--O365 HA & Store](https://careers.microsoft.com/us/en/job/749922/Sr-SE-Software-Engineer-II-O365-HA-Store)||
-|[Sr. SE/Software Engineer II--O365 HA & Store](https://careers.microsoft.com/us/en/job/749922/Sr-SE-Software-Engineer-II-O365-HA-Store)||
-|[Sr. SW Engineering Manager--O365 Engineering System](https://careers.microsoft.com/us/en/job/765528/Sr-SW-Engineering-Manager-O365-Engineering-System)||
-|[Sr. SW Engineering Manager--O365 OM team](https://careers.microsoft.com/us/en/job/738284/Sr-SW-Engineering-Manager-O365-OM-team)||
-|[Sr. Software Engineer --O365 AD team](https://careers.microsoft.com/us/en/job/738267/Sr-Software-Engineer-O365-AD-team)||
-|[Sr./Principal  SW Engineering Manager--O365 Anti Spam](https://careers.microsoft.com/us/en/job/724260/Sr-Principal-SW-Engineering-Manager-O365-Anti-Spam)||
-|[Data & Applied Scientist-Office 365](https://careers.microsoft.com/us/en/job/758452/Data-Applied-Scientist-Office-365)||
-|[Software Engineer II- Office365 IDEAs](https://careers.microsoft.com/us/en/job/744876/Software-Engineer-II-Office365-IDEAs)||
-|[Software Engineer II-Office365 Work Place Intelligence](https://careers.microsoft.com/us/en/job/735890/Software-Engineer-II-Office365-Work-Place-Intelligence)||
+|[Software Engineer II/Sr. SE--O365 Engineering System](https://careers.microsoft.com/us/en/job/749926/Software-Engineer-II-Sr-SE-O365-Engineering-System)|开发开发 Office 软件的软件，4 年以上|
+|[Software Engineer II/Sr. SE--O365 Substrate Management Platform](https://careers.microsoft.com/us/en/job/724277/Software-Engineer-II-Sr-SE-O365-Substrate-Management-Platform)|4 年以上, Web Service|
+|[Software Engineer II/Sr. SE--O365 Transport team](https://careers.microsoft.com/us/en/job/760725/Software-Engineer-II-Sr-SE-O365-Transport-team)|2 年以上, serviceable|
+|[sSoftware Engineer-O365](https://careers.microsoft.com/us/en/job/721567/Software-Engineer-O365)|1 年以上，数据分析|
+|[Software Engineer-O365](https://careers.microsoft.com/us/en/job/712499/Software-Engineer-O365)|云安全以及性能|
+|[Software Engineer/ SEII - O365 AD](https://careers.microsoft.com/us/en/job/740048/Software-Engineer-SEII-O365-AD)|2 年以上，Auth team|
+|[Software Engineer/ SEII- O365 CapSense](https://careers.microsoft.com/us/en/job/768190/Software-Engineer-SEII-O365-CapSense)|数据分析师|
+|[Software Engineer/ SEII- O365 HA/Store](https://careers.microsoft.com/us/en/job/752786/Software-Engineer-SEII-O365-HA-Store)|2 年以上，O365 Storage team|
+|[Software Engineer/ SEII- O365- Data insights](https://careers.microsoft.com/us/en/job/749919/Software-Engineer-SEII-O365-Data-insights)|数据存储，数据分析|
+|[Software Engineer/ SEII- O365- Data insights](https://careers.microsoft.com/us/en/job/749919/Software-Engineer-SEII-O365-Data-insights)|同上(应该是 dup)|
+|[Software Engineer/ SEII- O365-Migration](https://careers.microsoft.com/us/en/job/737537/Software-Engineer-SEII-O365-Migration)|2 年以上，MailBox, server 同步?|
+|[Software Engineer/SEII- O365](https://careers.microsoft.com/us/en/job/724253/Software-Engineer-SEII-O365)|2 年以上，Cloud and WebService|
+|[Software Engineer/SEII- O365 AD](https://careers.microsoft.com/us/en/job/752937/Software-Engineer-SEII-O365-AD)|2 年以上，directory service|
+|[Software Engineer/SEII- O365 Anti Spam](https://careers.microsoft.com/us/en/job/766485/Software-Engineer-SEII-O365-Anti-Spam)|1 年以上，垃圾邮件过滤服务|
+|[Software Engineer/SEII--O365 OS&SKU](https://careers.microsoft.com/us/en/job/686832/Software-Engineer-SEII-O365-OS-SKU)|3 年以上，自动化部署, 脚本,  SQL|
+|[Software Engineer/SEII-O365 Evergreen](https://careers.microsoft.com/us/en/job/689115/Software-Engineer-SEII-O365-Evergreen)|1 年以上|
+|[Software Engineer/SEII-O365 Evergreen](https://careers.microsoft.com/us/en/job/767388/Software-Engineer-SEII-O365-Evergreen)|1 年以上|
+|[Software Engineer/SEII/Sr.SE--O365 Fleet](https://careers.microsoft.com/us/en/job/749933/Software-Engineer-SEII-Sr-SE-O365-Fleet)|1 年以上|
+|[Software Engineer/SEII/Sr.SE--O365 Fleet](https://careers.microsoft.com/us/en/job/749933/Software-Engineer-SEII-Sr-SE-O365-Fleet)|1 年以上|
+|[Sr. Data & Applied Scientist/Data Scientist--O365 HA & Store](https://careers.microsoft.com/us/en/job/749923/Sr-Data-Applied-Scientist-Data-Scientist-O365-HA-Store)|数据分析科学家，3 年以上|
+|[Sr. SE/SEII--O365 OS&SKU](https://careers.microsoft.com/us/en/job/766334/Sr-SE-SEII-O365-OS-SKU)|5 年以上，自动化部署，脚本，SQL|
+|[Sr. SE/Software Engineer II--O365 HA & Store](https://careers.microsoft.com/us/en/job/749922/Sr-SE-Software-Engineer-II-O365-HA-Store)|5 年以上，要求很 solid~|
+|[Sr. SE/Software Engineer II--O365 HA & Store](https://careers.microsoft.com/us/en/job/749922/Sr-SE-Software-Engineer-II-O365-HA-Store)|5 年以上，硬核，有挑战性|
+|[Sr. SW Engineering Manager--O365 Engineering System](https://careers.microsoft.com/us/en/job/765528/Sr-SW-Engineering-Manager-O365-Engineering-System)|6 年以上，开发开发 Office 软件的软件|
+|[Sr. SW Engineering Manager--O365 OM team](https://careers.microsoft.com/us/en/job/738284/Sr-SW-Engineering-Manager-O365-OM-team)|8 年以上，Outlook Mobile，精通 Android|
+|[Sr. Software Engineer --O365 AD team](https://careers.microsoft.com/us/en/job/738267/Sr-Software-Engineer-O365-AD-team)|3 年以上|
+|[Sr./Principal  SW Engineering Manager--O365 Anti Spam](https://careers.microsoft.com/us/en/job/724260/Sr-Principal-SW-Engineering-Manager-O365-Anti-Spam)|5-10 年，至少 3 年管理经验|
+|[Data & Applied Scientist-Office 365](https://careers.microsoft.com/us/en/job/758452/Data-Applied-Scientist-Office-365)|数据挖掘， 3 年以上|
+|[Software Engineer II- Office365 IDEAs](https://careers.microsoft.com/us/en/job/744876/Software-Engineer-II-Office365-IDEAs)|2 年以上|
+|[Software Engineer II-Office365 Work Place Intelligence](https://careers.microsoft.com/us/en/job/735890/Software-Engineer-II-Office365-Work-Place-Intelligence)|3 年后端经验|
 |[Software Engineer-Office 365 Security](https://careers.microsoft.com/us/en/job/752936/Software-Engineer-Office-365-Security)||
-|[Software Engineer-Office365 IDEAs](https://careers.microsoft.com/us/en/job/744877/Software-Engineer-Office365-IDEAs)||
-|[Support Engineer-Office](https://careers.microsoft.com/us/en/job/745397/Support-Engineer-Office)||
+|[Software Engineer-Office365 IDEAs](https://careers.microsoft.com/us/en/job/744877/Software-Engineer-Office365-IDEAs)|2 年以上|
+|[Support Engineer-Office](https://careers.microsoft.com/us/en/job/745397/Support-Engineer-Office)|2 年以上|
 
 
 # SharePoint
